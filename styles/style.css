@@ -143,3 +143,31 @@ main {
     /* margin-top: 2px; */
 
 }
+#what-i-do{
+    padding: 15px 150px 30px 150px;
+}
+
+.skill-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1140px;
+
+}
+
+.skill-title {
+    color:#181818;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.skill-description {
+    color: #757575;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+
+}
